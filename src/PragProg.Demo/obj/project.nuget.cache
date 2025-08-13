@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oo0Jz+gdq7E=",
+  "success": true,
+  "projectFilePath": "C:\\Repo\\PragProg.Ex19\\src\\PragProg.Demo\\PragProg.Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MerrittMelker\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.8\\microsoft.netcore.app.ref.8.0.8.nupkg.sha512",
+    "C:\\Users\\MerrittMelker\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.8\\microsoft.windowsdesktop.app.ref.8.0.8.nupkg.sha512",
+    "C:\\Users\\MerrittMelker\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.8\\microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512",
+    "C:\\Users\\MerrittMelker\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.8\\microsoft.netcore.app.host.win-x64.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

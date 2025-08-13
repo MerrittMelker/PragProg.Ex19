@@ -1,0 +1,11 @@
+C:\Repo\PragProg.Ex19\src\PragProg.Fsm\bin\Debug\net8.0\PragProg.Fsm.deps.json
+C:\Repo\PragProg.Ex19\src\PragProg.Fsm\bin\Debug\net8.0\PragProg.Fsm.dll
+C:\Repo\PragProg.Ex19\src\PragProg.Fsm\bin\Debug\net8.0\PragProg.Fsm.pdb
+C:\Repo\PragProg.Ex19\src\PragProg.Fsm\obj\Debug\net8.0\PragProg.Fsm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\PragProg.Ex19\src\PragProg.Fsm\obj\Debug\net8.0\PragProg.Fsm.AssemblyInfoInputs.cache
+C:\Repo\PragProg.Ex19\src\PragProg.Fsm\obj\Debug\net8.0\PragProg.Fsm.AssemblyInfo.cs
+C:\Repo\PragProg.Ex19\src\PragProg.Fsm\obj\Debug\net8.0\PragProg.Fsm.csproj.CoreCompileInputs.cache
+C:\Repo\PragProg.Ex19\src\PragProg.Fsm\obj\Debug\net8.0\PragProg.Fsm.dll
+C:\Repo\PragProg.Ex19\src\PragProg.Fsm\obj\Debug\net8.0\refint\PragProg.Fsm.dll
+C:\Repo\PragProg.Ex19\src\PragProg.Fsm\obj\Debug\net8.0\PragProg.Fsm.pdb
+C:\Repo\PragProg.Ex19\src\PragProg.Fsm\obj\Debug\net8.0\ref\PragProg.Fsm.dll

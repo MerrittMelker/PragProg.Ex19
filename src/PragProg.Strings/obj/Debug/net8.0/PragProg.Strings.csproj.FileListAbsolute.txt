@@ -1,0 +1,15 @@
+C:\Repo\PragProg.Ex19\src\PragProg.Strings\bin\Debug\net8.0\PragProg.Strings.deps.json
+C:\Repo\PragProg.Ex19\src\PragProg.Strings\bin\Debug\net8.0\PragProg.Strings.dll
+C:\Repo\PragProg.Ex19\src\PragProg.Strings\bin\Debug\net8.0\PragProg.Strings.pdb
+C:\Repo\PragProg.Ex19\src\PragProg.Strings\bin\Debug\net8.0\PragProg.Fsm.dll
+C:\Repo\PragProg.Ex19\src\PragProg.Strings\bin\Debug\net8.0\PragProg.Fsm.pdb
+C:\Repo\PragProg.Ex19\src\PragProg.Strings\obj\Debug\net8.0\PragProg.Strings.csproj.AssemblyReference.cache
+C:\Repo\PragProg.Ex19\src\PragProg.Strings\obj\Debug\net8.0\PragProg.Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\PragProg.Ex19\src\PragProg.Strings\obj\Debug\net8.0\PragProg.Strings.AssemblyInfoInputs.cache
+C:\Repo\PragProg.Ex19\src\PragProg.Strings\obj\Debug\net8.0\PragProg.Strings.AssemblyInfo.cs
+C:\Repo\PragProg.Ex19\src\PragProg.Strings\obj\Debug\net8.0\PragProg.Strings.csproj.CoreCompileInputs.cache
+C:\Repo\PragProg.Ex19\src\PragProg.Strings\obj\Debug\net8.0\PragProg.33EB3062.Up2Date
+C:\Repo\PragProg.Ex19\src\PragProg.Strings\obj\Debug\net8.0\PragProg.Strings.dll
+C:\Repo\PragProg.Ex19\src\PragProg.Strings\obj\Debug\net8.0\refint\PragProg.Strings.dll
+C:\Repo\PragProg.Ex19\src\PragProg.Strings\obj\Debug\net8.0\PragProg.Strings.pdb
+C:\Repo\PragProg.Ex19\src\PragProg.Strings\obj\Debug\net8.0\ref\PragProg.Strings.dll
